@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Akolade Sylvester Adelaja but everyone calls me Kay. 👋
 
+ 🌱 I’m currently studying Cyber Security and Computer Science ...
+ 
+ 🔭 I’m currently working on an auction based website using PHP and Javascript.
 <!--
 **kayrrtolkien/Kayrrtolkien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
