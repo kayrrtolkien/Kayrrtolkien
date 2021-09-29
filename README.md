@@ -1,9 +1,16 @@
-### Hi there, I'm Akolade Sylvester Adelaja but everyone calls me Kay. 👋
+### Hi there 👋
 
- 🌱 I’m currently studying Cyber Security and Computer Science ...
- 
- 🔭 I’m currently working on an auction based website using PHP and Javascript.
- 
+I'm Akolade Sylvester Adelaja but everyone calls me Kay
+
+
+
+
+
+
+
+
+
+
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kayrrtolkien&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
