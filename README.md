@@ -1,4 +1,4 @@
-<img height="800em" src="https://www.rd.com/wp-content/uploads/2020/11/MLK-Quotes-1-copy-UD.jpg?fit=700,700" />
+<img height="500em" src="https://www.rd.com/wp-content/uploads/2020/11/MLK-Quotes-1-copy-UD.jpg?fit=700,700" />
 
 ### Hi there 👋
 I'm Akolade Sylvester Adelaja but everyone calls me Kay
